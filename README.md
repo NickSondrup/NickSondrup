@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Nick Sondrup. 
+
+I am a beginning software developer currently attending Boise Codeworks. I have a basic understanding of HTML, CSS, and JavaScript, and am excited to learn more! I am naturally  curious and love discovering how things work. 
 
 **Strengths**
 
@@ -41,6 +43,10 @@ Traits: Introverted – 68%, Intuitive – 61%, Feeling – 54%, Prospecting –
 Role: Diplomat
 
 Strategy: Constant Improvement
+
+### How you can reach me
+
+email: nicholas.sondrup@gmail.com
 
 <!--
 **NickSondrup/NickSondrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
