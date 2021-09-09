@@ -48,6 +48,8 @@ Strategy: Constant Improvement
 
 email: nicholas.sondrup@gmail.com
 
+https://github-readme-stats.vercel.app/api?username=NickSondrup&theme=synthwave&show_icons=true
+
 <!--
 **NickSondrup/NickSondrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
