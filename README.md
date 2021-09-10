@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Nick Sondrup. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSondrup&show_icons=true&theme=tokyonight)
+
 I am a beginning software developer currently attending Boise Codeworks. I have a basic understanding of HTML, CSS, and JavaScript, and am excited to learn more! I am naturally  curious and love discovering how things work. 
 
 **Strengths**
@@ -48,7 +50,7 @@ Strategy: Constant Improvement
 
 email: nicholas.sondrup@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickSondrup&show_icons=true&theme=tokyonight)
+
 
 
 <!--
