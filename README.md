@@ -13,6 +13,8 @@ I am a beginning software developer currently attending Boise Codeworks. I have 
 
 email: nicholas.sondrup@gmail.com
 
+LinkedIn: https://www.linkedin.com/in/nicholas-sondrup-887079221/
+
 
 
 
