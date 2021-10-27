@@ -1,5 +1,9 @@
  # Interview Homework
  
+ **Preparing for the big interview**
+ 
+ I know myself and my nerves so I need to start preparing for the interview the night before. I have to make sure I have a nice calm night so I can get a good nights rest and not keep myself up worring about it all night. In order to do that I need to make sure I have done my research on the company and written down a practice elevator pitch a few days before so I can have practiced early and can rest easy the night before. The day of but before the interview I plan on making sure i've eaten well but not too much and can review my elevator pitch and look over any notes i've created relating to that company.  
+ 
  **Elevator Pitch**
  
  Nice to meet you! I grew up around here and am a passionate software developer. I have a passion for building things and watching my creations grow. When I was young I would blow my parents away by building elaborate structures with legos and as I grew older I found a love for building and painting models. I started my work experience with several customer service jobs at RC Willey and Albertsons where I became a master of orginzation and helped train people. Since then I Attended Codeworks and found a real love for software development. Development fit into my love of building and creating in a surprising fashion. I genuinely enjoy watching each piece of an application fall into place and being able to step back time to time and see how much it has changed. I find myself excited to build each new application and think this love of building will be a great fit for your team. 
@@ -39,3 +43,14 @@ During my time at Codeworks we created a two week Capstone project and I found m
 
 I worked for a year as a Valet in Salt Lake City parking cars for restaurants and hotels. We were almost always left unsupervised for the shift and would have to clock in remotely from a cellphone. Being left alone and responsible for the safety of the cars I've parked I was always alert and ready for the next client. My managers recognized my drive, moved me to shift supervisor quickly and were sad when I had to move back to Boise. 
 
+**Five questions to ask during Interview**
+
+1. What does a typical day look like?
+
+2. How will I be trained?
+
+3. Are there opportunities for advancement or professional development?
+
+4. What gets you most excited about the company’s future?
+
+5. What are the next steps in the interview process?
