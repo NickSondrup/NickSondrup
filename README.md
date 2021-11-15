@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-I am a beginning software developer currently attending Boise Codeworks. I have a basic understanding of HTML, CSS, and JavaScript, and am excited to learn more! I am naturally  curious and love discovering how things work. 
+I am a software developer who attending Boise Codeworks. I have a strong understanding of HTML, CSS, and JavaScript, and am excited to learn more! I am naturally  curious and love discovering how things work. 
 
 
 
